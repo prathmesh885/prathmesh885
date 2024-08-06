@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Prathmesh Chidrawar
 
-- 🔭 I’m currently working on Node and Angular Projects<br>- 🌱 I’m currently learning React and AWS<br>- 👯 I’m looking to collaborate on Node, AWS, and Angular Projects<br>- 🤔 I’m looking for a Job opportunity.<br>- 💬 Ask me about anything<br>- 📫 How to reach me: prathmesh7464@gmail.com<br>- 
+- 🔭 I’m currently working on Node and Angular Projects<br>- 🌱 I’m currently learning React and AWS<br>- 👯 I’m looking to collaborate on Node, AWS, and Angular Projects<br>- 🤔 I’m looking for a Job opportunity.<br>- 💬 Ask me about anything<br>- 📫 How to reach me: prathmesh8474@gmail.com<br>- 
 
 
 ## 🌐 Socials:
